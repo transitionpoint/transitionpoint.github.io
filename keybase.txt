@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/johnashenfelter
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://transitionpoint.com
+  * I am johnashenfelter (https://keybase.io/johnashenfelter) on keybase.
+  * I have a public key ASCniNG_9glKsCgW1SA1apgwR9Xxjs67htkHpxu6azSNwAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01012b5feb122a257cbd31b9e5448e386a61b5091bd8ff7291f604d88b494545e5300a",
+      "host": "keybase.io",
+      "kid": "0120a788d1bff6094ab02816d520356a983047d5f18ecebb86d907a71bba6b348dc00a",
+      "uid": "885db3de0574bb77069ac4251f35b300",
+      "username": "johnashenfelter"
+    },
+    "merkle_root": {
+      "ctime": 1600457447,
+      "hash": "b0a023d6d4f74a1331bceb5e3e47a0c70cfcef74e12f8ea8a3388c8967a25b1926cde40dd97d727deb46a72b5513c2a4e268d0f8579c54d7e9d6a2f4d19e7601",
+      "hash_meta": "bb50723c03e28a632b5bccf92daad86487d6ef0a05ad6b71a6c8906f0761a068",
+      "seqno": 17607881
+    },
+    "service": {
+      "entropy": "8r+fdiMi1IYAuHaFLqLtQaUc",
+      "hostname": "transitionpoint.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1600457504,
+  "expire_in": 504576000,
+  "prev": "0f23821de6f048418f33e663ffc0b979b9d771eb2201b8605589f9bbea6644c1",
+  "seqno": 42,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgp4jRv/YJSrAoFtUgNWqYMEfV8Y7Ou4bZB6cbums0jcAKp3BheWxvYWTESpcCKsQgDyOCHebwSEGPM+Zj/8C5ebnXcesiAbhgVYn5u+pmRMHEIOU0EePYpxc8ail1Yi0wPtPEWK6bu02/RWwj3s+AGtJ7AgHCo3NpZ8RA1nllx6RMczmO/PMsILmkIt2Kp823wrOSE0HkaILHy3RL5TmXkNec0WVo6CA56cyqLkj0/SAfXP5qopdltJJVAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFI6sjkI8BWk4Nwqst1IylDj9pVwZHvLQePTcDgXaec0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/johnashenfelter
+
+==================================================================
+
