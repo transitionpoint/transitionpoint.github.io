@@ -20,13 +20,13 @@ To do so, I am signing this object:
       "username": "johnashenfelter"
     },
     "merkle_root": {
-      "ctime": 1600457447,
-      "hash": "b0a023d6d4f74a1331bceb5e3e47a0c70cfcef74e12f8ea8a3388c8967a25b1926cde40dd97d727deb46a72b5513c2a4e268d0f8579c54d7e9d6a2f4d19e7601",
-      "hash_meta": "bb50723c03e28a632b5bccf92daad86487d6ef0a05ad6b71a6c8906f0761a068",
-      "seqno": 17607881
+      "ctime": 1600458092,
+      "hash": "f7abfb92b4bb71d8cff2ec00c8774fa7e2d959924631a77f3b702ce926c86068edd107f83d076fcff33cc1f2e11f569855371c916ce98d592b94abb353c24a72",
+      "hash_meta": "685bbc26ed08d1362bb40749c0ddd8fa83bf5b2f4f38d9e120faf67f1db6f485",
+      "seqno": 17607985
     },
     "service": {
-      "entropy": "8r+fdiMi1IYAuHaFLqLtQaUc",
+      "entropy": "WKuOeRU3CgxspUxjwECIKMdR",
       "hostname": "transitionpoint.com",
       "protocol": "https:"
     },
@@ -37,16 +37,16 @@ To do so, I am signing this object:
     "name": "keybase.io go client",
     "version": "5.5.0"
   },
-  "ctime": 1600457504,
+  "ctime": 1600458125,
   "expire_in": 504576000,
-  "prev": "0f23821de6f048418f33e663ffc0b979b9d771eb2201b8605589f9bbea6644c1",
-  "seqno": 42,
+  "prev": "802117bc8a5e21a7f9c25d6569f17436fb81b95bc82d9802eb6575f27877bd6a",
+  "seqno": 48,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgp4jRv/YJSrAoFtUgNWqYMEfV8Y7Ou4bZB6cbums0jcAKp3BheWxvYWTESpcCKsQgDyOCHebwSEGPM+Zj/8C5ebnXcesiAbhgVYn5u+pmRMHEIOU0EePYpxc8ail1Yi0wPtPEWK6bu02/RWwj3s+AGtJ7AgHCo3NpZ8RA1nllx6RMczmO/PMsILmkIt2Kp823wrOSE0HkaILHy3RL5TmXkNec0WVo6CA56cyqLkj0/SAfXP5qopdltJJVAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFI6sjkI8BWk4Nwqst1IylDj9pVwZHvLQePTcDgXaec0o3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgp4jRv/YJSrAoFtUgNWqYMEfV8Y7Ou4bZB6cbums0jcAKp3BheWxvYWTESpcCMMQggCEXvIpeIaf5wl1lafF0NvuBuVvILZgC62V18nh3vWrEIIEne8cGFevrMMO1GLa3N/TiCnulQCnGyaSntHb0DeqMAgHCo3NpZ8RAVrwGRrNbjEYBqCIYRVXngs/DC/uuPQexMhUzZr7q3YmMOmqF4Zj6/0D9KPmZhZ2mgSeAVwedsjGyFFEhMjJiA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJxLaBNkYhR12rWsraSSNvVJsB/lFrcr07bsVxqet+vlo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -54,4 +54,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/johnashenfelter
 
 ==================================================================
-
